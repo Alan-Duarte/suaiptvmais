@@ -1,0 +1,25 @@
+.job {
+    padding: 20px;
+}
+
+.job li {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.job li:hover {
+    background-color: #C0C0C0;
+}
+
+.job li:hover a {
+    color: #000;
+}
+
+.job a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.dados {
+    border-top: 2px solid gray;
+}
